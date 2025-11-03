@@ -35,8 +35,6 @@ Each notebook is designed for educational purposes, covering regression, classif
 ---
 
 ## 🧩 Environment
-These notebooks run out-of-the-box on **Google Colab**.  
-If you want to run locally, install dependencies:
-
-```bash
-pip install -r requirements.txt
+- Python 3.12+
+- plotly
+- pillow
